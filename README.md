@@ -39,3 +39,7 @@ echo $PATH
 ```
 sd -ph
 ```
+
+
+All rights reserved to Danny Chouinard
+ [ Danny Chouinard's doodads](https://sites.google.com/site/dannychouinard/Home/atmel-avr-stuff/sd)
